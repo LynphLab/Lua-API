@@ -1,1 +1,1 @@
-- resolver improvements \n -loader improvements
+- resolver improvements
