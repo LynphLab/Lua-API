@@ -1,1 +1,7 @@
-- resolver, aa improvements
+[Loader]
+- Redesign
+- Improve API
+- Added alpha access
+- Boost FPS
+[Cheat]
+- Fixed FPS
