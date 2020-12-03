@@ -1,10 +1,7 @@
-[Loader [02.12.2020]]
+[Loader [03.12.2020]]
 - Redesign
-- Improved API
-- Added alpha access
-- Improved FPS
-- Fixed auth connect
-- Changed HWID system get
+- Fixed inject problem
+- Etc fix
 
 [Cheat [01.12.2020]]
 - Fixed FPS
