@@ -3,6 +3,9 @@
 - Fixed inject problem
 - Etc fix
 
-[Cheat [01.12.2020]]
-- Fixed FPS
-- Improved aim
+[Cheat [14.12.2020]]
+-aimbot improvements
+-resolver improvements
+-aimbot improvements
+-minor autowall improvements
+-minor prediction improvements
