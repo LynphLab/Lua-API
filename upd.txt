@@ -3,7 +3,7 @@
 - Fixed inject problem
 - Etc fix
 
-[Cheat [16.12.2020]]
+[Cheat [17.12.2020]]
 -local animations improvements
 -minor aimbot improvements
 -minor directional autostrafe improvements
