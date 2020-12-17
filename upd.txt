@@ -3,9 +3,8 @@
 - Fixed inject problem
 - Etc fix
 
-[Cheat [14.12.2020]]
+[Cheat [16.12.2020]]
 -aimbot improvements
--resolver improvements
--aimbot improvements
--minor autowall improvements
--minor prediction improvements
+-fixed esp bugs with molotov, smoke, etc
+-esp changes
+-optimization improvements
