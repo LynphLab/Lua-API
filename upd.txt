@@ -4,7 +4,7 @@
 - Etc fix
 
 [Cheat [16.12.2020]]
--aimbot improvements
--fixed esp bugs with molotov, smoke, etc
--esp changes
--optimization improvements
+-local animations improvements
+-minor aimbot improvements
+-minor directional autostrafe improvements
+-menu changes
