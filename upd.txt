@@ -1,8 +1,10 @@
-[Loader [03.12.2020]]
-- Redesign
-- Fixed inject problem
-- Etc fix
+[Loader [21.12.2020]]
+- Optimize
 
-[Cheat [19.12.2020]]
--aimbot improvements
+[Cheat [22.12.2020]]
 -resolver improvements
+-optimization improvements
+-animations improvements
+-accuracy improvements
+-esp changes
+-fixed crash when u press on anti-aim tab
