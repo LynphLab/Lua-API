@@ -1,10 +1,1 @@
-[Loader [21.12.2020]]
-- Optimize
-
-[Cheat [22.12.2020]]
--resolver improvements
--optimization improvements
--animations improvements
--accuracy improvements
--esp changes
--fixed crash when u press on anti-aim tab
+Что сюда смотришь? Не видишь, что тут занято....
